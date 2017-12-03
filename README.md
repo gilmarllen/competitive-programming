@@ -1,5 +1,5 @@
 # competitive-programming
-Competitive Programming Problem Solutions 
+Competitive Programming Problem Solutions
 
 # OBI
 http://olimpiada.ic.unicamp.br/pratique/programacao
