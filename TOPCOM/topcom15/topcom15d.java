@@ -1,9 +1,10 @@
+// reset
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.math.BigInteger;
 import java.util.Scanner;
 
-public class D{
+public class topcom15d{
 	
 	public static void main(String[] args){
         BigInteger z = new BigInteger("0");
